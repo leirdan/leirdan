@@ -2,7 +2,7 @@
 - :bowtie: Eu sou o @leirdan, um iniciante no mundo da tecnologia.
 - :computer: Meu primeiro contato com programação foi com a linguagem Java, aos 15 anos, no curso de Informática do IFRN.
 - 🌱 Com 18 anos, já estudei desenvolvimento web básico usando HTML-CSS-Javascript e explorei a programação com Node.js e alguns frameworks para criar pequenos aplicativos.
-- :telescope: Atualmente estou retomando meus estudos com Java e conhecendo cada vez mais dos sistemas GNU/Linux.
+- :telescope: Atualmente estou entrando no mundo do Typescript e conhecendo cada vez mais dos sistemas GNU/Linux.
 - :star: Instagram: **@leirdan**.
 
 ## Meus conhecimentos
