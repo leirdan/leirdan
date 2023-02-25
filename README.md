@@ -1,8 +1,8 @@
 # hey, bem vindo ao meu perfil!
-- :bowtie: Eu sou o @leirdan, um iniciante no mundo da tecnologia e desenvolvedor back-end Júnior.
+- :bowtie: Eu sou o @leirdan, técnico em informática pelo IFRN e desenvolvedor back-end Júnior.
 - :computer: Meu primeiro contato com programação foi com a linguagem Java, aos 15 anos, no curso de Informática do IFRN.
-- 🌱 Com 18 anos, já estudei desenvolvimento web usando a tríade HTML-CSS-Javascript e explorei a programação com Node.js e alguns frameworks para criar pequenos aplicativos.
-- :telescope: Atualmente estou entrando no mundo do Typescript, React e conhecendo cada vez mais dos sistemas GNU/Linux.
+- 🌱 Com 19 anos, já estudei desenvolvimento web usando a tríade HTML-CSS-Javascript e explorei a programação com Node.js e alguns frameworks para criar pequenos aplicativos.
+- :telescope: Atualmente venho dedicando-me ao Typescript e frameworks back-end como NestJS, além de buscar conhecer mais os bancos de dados.
 - :star: Instagram: **@leirdan**.
 
 ## Meus conhecimentos
@@ -17,18 +17,18 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
 ## O que ando aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" />
+          
           
 
 <div>
-<!--
 <a href="https://github.com/leirdan">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leirdan&layout=compact&langs_count=7&theme=blueberry"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leirdan&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 </div>
---->
 
 
 <!---
