@@ -2,7 +2,7 @@
 - :bowtie: Eu sou o @leirdan, técnico em informática pelo IFRN e desenvolvedor back-end Júnior.
 - :computer: Meu primeiro contato com programação foi com a linguagem Java, aos 15 anos, no curso de Informática do IFRN.
 - 🌱 Com 19 anos, já estudei desenvolvimento web usando a tríade HTML-CSS-Javascript e explorei a programação com Node.js e alguns frameworks para criar pequenos aplicativos.
-- :telescope: Atualmente venho dedicando-me ao Typescript e frameworks back-end como NestJS, além de buscar conhecer mais os bancos de dados.
+- :books: Atualmente, estou cursando o 1º período em Tecnologia da Informação (Bacharelado) na UFRN/Natal.
 - :star: Instagram: [**@v_andriel_**](https://instagram.com/v_andriel_).
 
 ## Meus conhecimentos
