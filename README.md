@@ -3,6 +3,7 @@
 - :computer: Meu primeiro contato com programação foi com a linguagem Java, aos 15 anos, no curso de Informática do IFRN.
 - 🌱 Com 19 anos, já estudei desenvolvimento web usando a tríade HTML-CSS-Javascript e explorei a programação com Node.js e alguns frameworks para criar pequenos aplicativos.
 - :books: Atualmente, estou cursando o 1º período em Tecnologia da Informação (Bacharelado) na UFRN/Natal.
+- :rocket: Sou estagiário na empresa Conciso TI na área de desenvolvimento web e mobile.
 - :star: Instagram: [**@v_andriel_**](https://instagram.com/v_andriel_).
 
 ## Meus conhecimentos
