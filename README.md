@@ -2,9 +2,9 @@
 - :bowtie: Eu sou o @leirdan, técnico em informática pelo IFRN e desenvolvedor back-end Júnior.
 - :computer: Meu primeiro contato com programação foi com a linguagem Java, aos 15 anos, no curso de Informática do IFRN.
 - 🌱 Com 19 anos, já estudei desenvolvimento web usando a tríade HTML-CSS-Javascript e explorei a programação com Node.js e alguns frameworks para criar pequenos aplicativos.
-- :books: Atualmente, estou cursando o 1º período em Tecnologia da Informação (Bacharelado) na UFRN/Natal.
+- :books: Atualmente, estou cursando o 2º período em Tecnologia da Informação (Bacharelado) na UFRN/Natal.
 - :rocket: Sou estagiário na empresa Conciso TI na área de desenvolvimento web e mobile.
-- :star: Instagram: [**@v_andriel_**](https://instagram.com/v_andriel_).
+- :star: Instagram: [**@f.andriel_**](https://instagram.com/f.andriel_).
 
 ## Meus conhecimentos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" /> 
