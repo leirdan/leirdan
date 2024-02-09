@@ -1,9 +1,9 @@
 # hey, bem vindo ao meu perfil!
 - :bowtie: Eu sou o @leirdan, técnico em informática pelo IFRN e desenvolvedor back-end Júnior.
 - 💻: Meu primeiro contato com programação foi aos 15 anos com a linguagem Java no curso de Informática do IFRN.
-- 🌱 Com 19 anos, já me aprofundei em desenvolvimento web com diversas tecnologias back-end, como Node.js e, especialmente, .NET e .NET Core.
-- 📚: Atualmente, estou cursando o 3º período em Tecnologia da Informação (Bacharelado) na UFRN/Natal.
-- 🚀: Sou estagiário na empresa Conciso TI na área de desenvolvimento web.
+- 🌱 Com 19 anos, já me aprofundei em desenvolvimento web com diversas tecnologias back-end, como Node.js, Spring Framework e .NET.
+- 📚: Atualmente estou cursando o 3º período em Tecnologia da Informação (Bacharelado) na UFRN/Natal.
+- 🚀: Sou estagiário na empresa Conciso TI na área de desenvolvimento web, trabalhando diariamente com ASP.NET Core e suas ferramentas.
 - 🎇: Instagram: [**@f.andriel_**](https://instagram.com/f.andriel_).
 
 ## Meus conhecimentos
@@ -25,6 +25,7 @@
           
 ## O que ando aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" />
 
 <div>
 <a href="https://github.com/leirdan">
