@@ -3,7 +3,7 @@
 - 💻 My first impression with programming was at 15 with Java. Since then, I have already explored multiple web ecossystems, like Node.js and .NET. 
 - 📚 I'm currently in my 3rd semester of the Information Technology (Bachelor's degree) program at the Metrópole Digital Institute (IMD), which is part of the Federal University of Rio Grande do Norte (UFRN).
 - 🌱 I'm interested in learning more about computer science in education and UNIX, as well as continuing to evolve in web programming.
-- 🚀 I work as a full-stack developer on an internal project at IMD and as a volunteer teaching assistant for the .
+- 🚀 I work as a full-stack developer on an internal project at IMD and as a volunteer teaching assistant for the ITP course.
 - 🎇 Instagram: [**@f.andriel_**](https://instagram.com/f.andriel_).
 
 <div align="center">
