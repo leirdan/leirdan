@@ -6,12 +6,6 @@
 - 🚀 I work as a full-stack developer on an internal project at IMD and as a volunteer teaching assistant for the ITP course.
 - 🎇 Instagram: [**@f.andriel_**](https://instagram.com/f.andriel_).
 
-<div align="center">
-<a href="https://github.com/leirdan">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leirdan&layout=compact&langs_count=8&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leirdan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ## tools I enjoy using for coding
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" />
