@@ -1,9 +1,8 @@
 # hey, welcome to my world!
 - :bowtie: I'm @leirdan, a computer technician from IFRN and full-stack developer.
-- 💻 My first impression with programming was at 15 with Java. Since then, I have already explored multiple web ecossystems, like Node.js and .NET. 
-- 📚 I'm currently in my 3rd semester of the Information Technology (Bachelor's degree) program at the Metrópole Digital Institute (IMD), which is part of the Federal University of Rio Grande do Norte (UFRN).
+- 📚 I'm currently in my 4rd semester of the Information Technology (Bachelor's degree) program at the Metrópole Digital Institute (IMD), which is part of the Federal University of Rio Grande do Norte (UFRN).
 - 🌱 I'm interested in learning more about computer science in education and UNIX, as well as continuing to evolve in web programming.
-- 🚀 I work as a full-stack developer on an internal project at IMD and as a volunteer teaching assistant for the ITP course.
+- 💼 I have solid experience with .NET ecossystem thanks to my internship and a research project at IMD. Additionally, I volunteer as a teaching assistant for a programming course.
 - 🎇 Instagram: [**@f.andriel_**](https://instagram.com/f.andriel_).
 
 ## What I enjoy using for coding
