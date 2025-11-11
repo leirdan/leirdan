@@ -1,11 +1,13 @@
 # hey, welcome to my world!
-- :bowtie: I'm @leirdan, a computer technician from IFRN and full-stack developer.
-- 📚 I'm currently in my 6rd semester of the Information Technology (Bachelor's degree) program at the Metrópole Digital Institute (IMD), which is part of the Federal University of Rio Grande do Norte (UFRN).
-- 🌱 I'm interested in learning more about computer science in education and UNIX, as well as continuing to evolve in web programming.
-- 💼 I have solid experience with .NET ecossystem thanks to my internship and a research project at IMD. 
+- :bowtie: Sou @leirdan, desenvolvedor full-stack e técnico em informática pelo IFRN.
+- :mortar_board: Estou atualmente no meu 6º período do Bacharelado em Tecnologia da Informação pelo Instituto Metrópole Digital (IMD), instituição vinculada à UFRN.
+- :books: Tenho preferência pelo estudo da matemática discreta, linguagens formais e teoria dos grafos.  
+- 💼 Tenho uma experiência sólida com o ecossistema .NET mas também com Java e Spring Framework, ambos graças aos projetos de pesquisa que sou vinculado no IMD.
+- 🌱 Pra além do trabalho & faculdade, gosto de jogar todo tipo de RPG e sou meio aficionado por Dark Souls... 
 
+<!---
 ## What I enjoy using for coding
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" loading="lazy" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="40" height="40" /> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" loading="lazy" /><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
 
@@ -24,7 +26,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40" />
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> 
-
+--->
 
 <!---
 leirdan/leirdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
