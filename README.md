@@ -1,9 +1,9 @@
 # hey, welcome to my world!
 - :bowtie: Sou @leirdan, desenvolvedor full-stack e técnico em informática pelo IFRN.
-- :mortar_board: Estou atualmente no meu 6º período do Bacharelado em Tecnologia da Informação pelo Instituto Metrópole Digital (IMD), instituição vinculada à UFRN.
-- :books: Tenho preferência pelo estudo da matemática discreta, linguagens formais e teoria dos grafos.  
-- 💼 Tenho uma experiência sólida com o ecossistema .NET mas também com Java e Spring Framework, ambos graças aos projetos de pesquisa que sou vinculado no IMD.
-- 🌱 Pra além do trabalho & faculdade, gosto de jogar todo tipo de RPG e sou meio aficionado por Dark Souls... 
+- :mortar_board: Estou atualmente no meu 7º período do Bacharelado em Tecnologia da Informação pelo Instituto Metrópole Digital (IMD), instituição vinculada à UFRN.
+- :books: Tenho preferência pelo estudo da matemática discreta e otimização computacional.  
+- 💼 Atualmente vinculado a um projeto de pesquisa no IMD, tenho experiência sólida com os ecossistemas .NET e Spring além de aplicações com React.
+- 🌱 Pra além do trabalho & faculdade, gosto de jogar todo tipo de RPG sendo (um pouco) aficionado por Dark Souls... 
 
 <!---
 ## What I enjoy using for coding
